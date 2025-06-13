@@ -15,9 +15,8 @@ void setup() {
   display.setTextSize(2);
   display.setTextColour(SSD1306_WHITE);
   display.setCursor(0, 20);
-  display.print("I ");
-  display.print("<3 ");
-  display.print("You");
+  display.print("You're ");
+  display.print("Loved");
 
   display.display();
 
